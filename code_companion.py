@@ -139,4 +139,3 @@ if user_query:
     
     with st.chat_message("assistant", avatar="🤖"):
         st.markdown(ai_response)
-s
